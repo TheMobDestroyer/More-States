@@ -5369,6 +5369,9 @@ country_event = {
 	option = {
 		name = germany.94.a
 		GER = { transfer_state = 102 }
+		GER = { transfer_state = 1234 }
+		GER = { transfer_state = 838 }
+		GER = { transfer_state = 839 }
 		set_country_flag = slovenia_acquired
 		hidden_effect = {
 			news_event = { id = news.163 hours = 6 }
@@ -5491,6 +5494,11 @@ country_event = {
 					owns_state = 103
 					owns_state = 104
 					owns_state = 109
+					owns_state = 930
+					owns_state = 992
+					owns_state = 931
+					owns_state = 990
+					
 				}
 			}
 		}
