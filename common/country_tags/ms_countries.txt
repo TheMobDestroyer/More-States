@@ -1,0 +1,4 @@
+KOS	= "countries/Kosovo.txt"
+LIE	= "countries/Liechtenstein.txt"
+AND	= "countries/Andorra.txt"
+MNC = "countries/Monaco.txt"
