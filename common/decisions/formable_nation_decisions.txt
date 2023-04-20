@@ -1916,12 +1916,17 @@ form_european_union_category = {
 				controls_state = 7
 				controls_state = 35
 				controls_state = 36
+				controls_state = 848
+				controls_state = 1225
 			}
 			# Belgium
 			custom_trigger_tooltip = {
 				tooltip = form_eu_belgium_required_states_tt
 				controls_state = 6
 				controls_state = 34
+				controls_state = 1167
+				controls_state = 859
+				controls_state = 909
 			}
 			# France
 			custom_trigger_tooltip = {
