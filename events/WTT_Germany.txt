@@ -14,13 +14,13 @@ country_event = {
 		name = wtt_germany.1.a
 		hidden_effect = {
 
-			set_capital = { state = 55 }
+			set_capital = { state = 847 }
 			start_civil_war = {
 				ruling_party = neutrality
 				ideology = fascism
 				size = 0.5
-				capital = 64
-				states = { 64 61 52 53 54 60 65 66 67 68 62 63 5 997 996 993 994}
+				capital = 1165
+				states = { 64 61 52 53 54 60 65 66 67 68 62 63 5 997 996 993 994 1165 1237 1238 1244}
 			}
 			set_party_name = { ideology = neutrality long_name = GER_neutrality_party_civil_war name = GER_neutrality_party_civil_war }
 			load_oob = "GER_German_Civil_War_neutrality"
