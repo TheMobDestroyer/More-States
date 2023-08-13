@@ -1,0 +1,26 @@
+
+state={
+	id=1262
+	name="Zanzibar"
+	provinces={
+		13448 13451 13454 
+	}
+	history = { 
+		owner = ENG
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+			13451 = {
+				naval_base = 1
+
+			}
+		}
+		victory_points = {
+			13451 1 
+		}
+	}
+	state_category = town
+	manpower=295811
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,7 +1,7 @@
 
 state={
 	id=995
-	name="Ostbaden"
+	name="Süd-Württemberg"
 
 	history={
 		owner = GER
@@ -14,10 +14,10 @@ state={
 	}
 
 	provinces={
-		3679 3690 6934 9655 13126 
+		3690 6934 9655 13126 
 	}
 	manpower=75336
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

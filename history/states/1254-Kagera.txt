@@ -1,0 +1,19 @@
+
+state={
+	id=1254
+	name="Kagera"
+	provinces={
+		4171 13443 
+	}
+	history = { 
+		owner = ENG
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	state_category = rural
+	manpower=1288349
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=1259
+	name="Shinyanga"
+	provinces={
+		13440 13441 13442 13455 13456 
+	}
+	history = { 
+		owner = ENG
+		add_core_of = TZN
+	}
+	state_category = rural
+	manpower=888888
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

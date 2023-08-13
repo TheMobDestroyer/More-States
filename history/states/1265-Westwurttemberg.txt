@@ -1,0 +1,18 @@
+state={
+	id=1265
+	name="West-Württemberg"
+	provinces={
+		13419 
+	}
+	history = {
+		set_demilitarized_zone = yes
+		owner = GER
+		add_core_of = GER 
+		add_core_of = WUR
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=7855
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

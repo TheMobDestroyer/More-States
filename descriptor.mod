@@ -3,7 +3,6 @@ tags={
 	"Map"
 }
 replace_path="history/states"
-replace_path="map/strategicregions"
 dependencies={
 	"morestates+"
 	"msplus"

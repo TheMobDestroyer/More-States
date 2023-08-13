@@ -1,0 +1,16 @@
+state={
+	id=1264
+	name="Hohenzollern"
+	provinces={
+		13457 
+	}
+	history = {
+		owner = GER
+		add_core_of = GER
+		buildings = { infrastructure = 1 }
+	}
+	state_category = town
+	manpower=73844
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

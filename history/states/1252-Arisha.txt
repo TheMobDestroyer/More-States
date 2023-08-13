@@ -1,0 +1,22 @@
+
+state={
+	id=1252
+	name="Arusha"
+	provinces={
+		2206 5224 11017 13452 13453 
+	}
+	history = { 
+		owner = ENG
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			2206 3
+		}
+	}
+	state_category = large_town
+	manpower=745822
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

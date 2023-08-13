@@ -1,0 +1,19 @@
+
+state={
+	id=1260
+	name="Tabora"
+	provinces={
+		5180 8144 10932 
+	}
+	history = { 
+		owner = ENG
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	state_category = town
+	manpower=977325
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

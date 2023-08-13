@@ -1,0 +1,19 @@
+
+state={
+	id=1258
+	name="Ruvuma"
+	provinces={
+		8201 10845 12944 13418 13426 13427 
+	}
+	history = { 
+		owner = ENG
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	state_category = rural
+	manpower=136981
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

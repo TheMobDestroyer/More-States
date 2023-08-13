@@ -1,0 +1,16 @@
+state={
+	id=1267
+	name="Dunkerque"
+	provinces={
+		575 
+	}
+	history = {
+		owner = FRA
+		add_core_of = FRA
+		buildings = { infrastructure = 3 }
+	}
+	state_category = large_town
+	manpower=31017
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

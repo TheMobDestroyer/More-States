@@ -1,0 +1,18 @@
+
+state={
+	id=979
+	name="Canakkale"
+	provinces={
+		13241
+	}
+	history = {
+		owner = TUR
+		add_core_of = TUR
+		buildings = { infrastructure = 1 }
+		set_demilitarized_zone = yes
+	}
+	state_category = town
+	manpower=44600
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

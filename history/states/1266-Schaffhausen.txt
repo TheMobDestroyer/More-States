@@ -1,0 +1,16 @@
+state={
+	id=1266
+	name="Schaffhausen"
+	provinces={
+		13458 
+	}
+	history = {
+		owner = SWI
+		add_core_of = SWI 
+		buildings = { infrastructure = 2 }
+	}
+	state_category = rural
+	manpower=57515
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

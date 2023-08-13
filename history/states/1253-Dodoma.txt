@@ -1,0 +1,22 @@
+
+state={
+	id=1253
+	name="Dodoma"
+	provinces={
+		12911 13430 13431 13446 13449 
+	}
+	history = { 
+		owner = ENG
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			13449 3
+		}
+	}
+	state_category = large_town
+	manpower=847332
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
