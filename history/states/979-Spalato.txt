@@ -1,0 +1,24 @@
+
+state={
+	id=979
+	name="Split"
+
+	history={
+		owner = YUG
+		add_core_of = YUG
+		add_claim_by = ITA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		11901 13461 13463 13464 13465 
+	}
+	manpower=467281
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

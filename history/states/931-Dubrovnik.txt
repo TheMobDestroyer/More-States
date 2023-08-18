@@ -9,14 +9,13 @@ state={
 		add_core_of = CRO
 		buildings = {
 			infrastructure = 3
-			
 
 		}
 
 	}
 
 	provinces={
-		984 3924 3974 11816 11901 
+		984 3924 3974 11816 13466 
 	}
 	manpower=500000
 	buildings_max_level_factor=1.000
