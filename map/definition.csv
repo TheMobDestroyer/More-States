@@ -13455,13 +13455,6 @@
 13454;70;86;61;land;true;forest;5
 13455;65;15;171;land;false;forest;5
 13456;45;15;171;land;false;forest;5
-13457;203;211;125;land;false;forest;1
-13458;50;55;169;land;false;plains;1
-13459;120;207;55;land;false;plains;1
-13460;150;166;158;land;false;plains;1
-13461;86;156;162;land;false;plains;1
-13462;2;196;140;land;false;plains;1
-13463;249;185;91;land;false;plains;1
-13464;195;96;145;land;false;plains;1
-13465;108;246;222;land;false;plains;1
-13466;106;100;17;land;false;plains;1
+13457;203;211;125;land;false;forest;0
+13458;50;55;169;land;false;unknown;0
+13459;120;207;55;land;false;unknown;0
