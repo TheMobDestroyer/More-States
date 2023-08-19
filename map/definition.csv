@@ -8180,7 +8180,7 @@
 8179;94;48;141;land;true;plains;3
 8180;94;51;56;land;true;mountain;5
 8181;94;54;21;land;true;mountain;3
-8182;94;57;86;land;true;forest;5
+8182;94;57;86;land;false;forest;5
 8183;94;60;51;land;true;mountain;5
 8184;94;60;156;land;false;plains;3
 8185;94;63;16;land;false;jungle;3
@@ -9318,7 +9318,7 @@
 9317;127;99;49;land;true;forest;1
 9318;127;99;154;land;false;plains;1
 9319;127;102;14;land;false;marsh;1
-9320;127;102;69;land;false;plains;1
+9320;127;102;69;land;true;plains;1
 9321;127;102;219;land;true;plains;1
 9322;127;105;34;land;true;plains;1
 9323;127;105;184;land;false;plains;1
@@ -9892,7 +9892,7 @@
 9891;130;162;204;land;false;plains;1
 9892;130;165;64;land;false;plains;2
 9893;130;165;169;land;false;hills;7
-9894;130;165;214;land;true;mountain;1
+9894;130;165;214;land;false;mountain;1
 9895;130;168;29;land;true;hills;6
 9896;130;168;134;land;true;hills;1
 9897;130;171;94;land;false;hills;6
@@ -12942,7 +12942,7 @@
 12941;178;84;147;land;true;plains;5
 12942;178;87;62;land;false;mountain;3
 12943;178;90;27;land;false;forest;3
-12944;178;93;92;land;true;forest;5
+12944;178;93;92;land;false;forest;5
 12945;178;96;57;land;false;forest;5
 12946;178;96;162;land;false;mountain;3
 12947;178;99;22;land;false;forest;3
@@ -13421,7 +13421,7 @@
 13420;14;65;224;land;false;forest;1
 13421;184;0;147;land;false;forest;1
 13422;77;235;188;land;false;forest;1
-13423;45;203;192;land;false;forest;1
+13423;45;203;192;land;true;forest;1
 13424;6;3;127;land;false;forest;1
 13425;202;175;229;land;false;forest;1
 13426;246;5;206;land;false;forest;5
@@ -13458,10 +13458,12 @@
 13457;203;211;125;land;false;forest;1
 13458;50;55;169;land;false;plains;1
 13459;120;207;55;land;false;plains;1
-13460;150;166;158;land;false;plains;1
-13461;86;156;162;land;false;plains;1
-13462;2;196;140;land;false;plains;1
-13463;249;185;91;land;false;plains;1
-13464;195;96;145;land;false;plains;1
-13465;108;246;222;land;false;plains;1
-13466;106;100;17;land;false;plains;1
+13460;150;166;158;land;true;plains;1
+13461;86;156;162;land;true;plains;1
+13462;2;196;140;land;true;plains;1
+13463;249;185;91;land;true;plains;1
+13464;195;96;145;land;true;plains;1
+13465;108;246;222;land;true;plains;1
+13466;106;100;17;land;true;plains;1
+13467;156;181;140;land;false;forest;1
+13468;1;132;119;land;false;forest;1
