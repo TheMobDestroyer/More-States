@@ -1,0 +1,25 @@
+
+state={
+	id=1286
+	name="Cayenne"
+	provinces={
+		13497 13498 
+	}
+	history={
+		owner = FRA
+		add_core_of = CAY
+		buildings = {
+			infrastructure = 1
+			13497 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			13497 1 
+		}
+	}
+	state_category = rural
+	manpower=30000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

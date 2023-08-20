@@ -1,0 +1,17 @@
+
+state={
+	id=1278
+	name="Madiera Occidental"
+	provinces={
+		13469 13471 
+	}
+	history = {
+		owner = BRA
+		add_core_of = BRA 
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=38765
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

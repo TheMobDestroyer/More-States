@@ -1,0 +1,16 @@
+state={
+	id=1280
+	name="Oriximina"
+	provinces={
+		13491 
+	}
+	history = {
+		owner = BRA
+		add_core_of = BRA 
+		buildings = { infrastructure = 1 }
+	}
+	state_category = pastoral
+	manpower=88600
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

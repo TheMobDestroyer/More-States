@@ -1,11 +1,10 @@
-
 state={
 	id=495
-	name="STATE_495"
+	name="Norte do Amazonas"
 	resources={
 		aluminium=4.000
 	}
-
+	impassable = yes
 	history={
 		owner = BRA
 		buildings = {
@@ -17,10 +16,10 @@ state={
 	}
 
 	provinces={
-		2198 5083 5214 5232 8185 8254 10934 12919 12965 13083 
+		5083 5214 10934 12919 13083 
 	}
-	manpower=979900
+	manpower=68555
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=wasteland
 	local_supplies=0.000
 }

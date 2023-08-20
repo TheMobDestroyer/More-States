@@ -1,0 +1,17 @@
+
+state={
+	id=1275
+	name="Mato Grosso Occidental"
+	provinces={
+		2147 11010 12939 
+	}
+	history = {
+		owner = BRA
+		add_core_of = BRA 
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=78331
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

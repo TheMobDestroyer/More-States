@@ -1,0 +1,17 @@
+
+state={
+	id=1272
+	name="Amazônia Ocidental"
+	provinces={
+		13473 13475 13476 13479 13480 13480 13481 13486 
+	}
+	history = {
+		owner = BRA
+		add_core_of = BRA 
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=111111
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

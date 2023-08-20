@@ -2,7 +2,7 @@
 state={
 	id=488
 	name="STATE_488"
-
+	impassable = yes
 	history={
 		owner = VEN
 		buildings = {

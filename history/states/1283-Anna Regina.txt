@@ -1,0 +1,17 @@
+state={
+	id=1283
+	name="Anna Regina"
+	provinces={
+		13502 
+	}
+	history = {
+		owner = ENG
+		add_core_of = GYA
+		add_claim_by = VEN
+		buildings = { infrastructure = 1}
+	}
+	state_category = pastoral
+	manpower=53764
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

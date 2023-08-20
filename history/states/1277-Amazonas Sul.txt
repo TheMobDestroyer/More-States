@@ -1,0 +1,18 @@
+
+state={
+	id=1277
+	name="Sul do Amazonas"
+	provinces={
+		2198 8185 8254 12965 
+	}
+	impassable = yes
+	history = {
+		owner = BRA
+		add_core_of = BRA 
+		buildings = { infrastructure = 1 }
+	}
+	state_category = wasteland
+	manpower=22222
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

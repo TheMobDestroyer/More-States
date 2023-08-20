@@ -4,6 +4,7 @@ state={
 	provinces={
 		10792 12729 
 	}
+	impassable = yes
 	history = {
 		owner = COL
 		add_core_of = COL

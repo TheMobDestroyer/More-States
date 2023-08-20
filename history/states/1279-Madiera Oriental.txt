@@ -1,0 +1,17 @@
+
+state={
+	id=1279
+	name="Madiera Oriental"
+	provinces={
+		13470 13472 13474 
+	}
+	history = {
+		owner = BRA
+		add_core_of = BRA 
+		buildings = { infrastructure = 1 }
+	}
+	state_category = town
+	manpower=55555
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
