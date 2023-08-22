@@ -1,10 +1,9 @@
 
 state={
 	id=1032
-	name="Para"
-	impassable = yes
+	name="Pará"
+
 	history={
-		
 		owner = BRA
 		add_core_of = BRA
 		buildings = {
@@ -15,7 +14,7 @@ state={
 	}
 
 	provinces={
-		2214 5008 10874 10956 
+		2214 10874 10956 
 	}
 	manpower=711098
 	buildings_max_level_factor=1.000
