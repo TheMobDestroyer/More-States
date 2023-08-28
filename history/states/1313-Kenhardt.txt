@@ -1,0 +1,19 @@
+
+state={
+	id=1313
+	name="Kenhardt"
+	provinces={
+		13608 13611 13614 13616 13623 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	state_category = wasteland
+	manpower=11360
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

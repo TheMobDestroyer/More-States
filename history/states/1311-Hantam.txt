@@ -1,0 +1,19 @@
+
+state={
+	id=1311
+	name="Hantam"
+	provinces={
+		10415 12692 13597 13602 13605 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	state_category = wasteland
+	manpower=6300
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

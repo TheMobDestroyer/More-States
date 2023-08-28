@@ -12,27 +12,27 @@ state={
 			infrastructure = 3
 			industrial_complex = 2
 			air_base = 1
-			1468 = {
+			13512 = {
 				naval_base = 2
 
 			}
 
-
 		}
 		victory_points = {
-			1468 3 
+			13512 3 
 		}
 		victory_points = {
-			4696 1 
+			1468 2 
 		}
 		add_core_of = SAF
 
 	}
 
 	provinces={
-		1468 1494 8178 
+		1468 1494 8178 13506 13508 13512 13515 13517 13522 
 	}
-	manpower=3962157
+	manpower=1962157
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
+	local_supplies=0.000
 }

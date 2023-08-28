@@ -1,0 +1,19 @@
+
+state={
+	id=1316
+	name="Thabo"
+	provinces={
+		12064 13520 13525 13530 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	state_category = pastoral
+	manpower=166824
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

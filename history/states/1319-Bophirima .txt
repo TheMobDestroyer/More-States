@@ -1,0 +1,19 @@
+
+state={
+	id=1319
+	name="Bophirima"
+	provinces={
+		2213 10668 13523 13528 13531 13533 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 2
+		}
+	}
+	state_category = pastoral
+	manpower=785100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=1323
+	name="Pietersburg"
+	provinces={
+		1688 13553 13560 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 2
+		}
+	}
+	state_category = town
+	manpower=398600
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=1314
+	name="Port Elizabeth"
+	provinces={
+		4696 4822 12547 13589 13593 13599 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 2
+		}
+		victory_points = { 4696 5 }
+	}
+	state_category = town
+	manpower=811625
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+}

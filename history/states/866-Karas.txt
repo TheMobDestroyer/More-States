@@ -1,20 +1,24 @@
+
 state={
 	id=866
-	name="Karas"
+	name="Lüderitz"
+
 	history={
 		owner = SAF
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 
 		}
 		add_core_of = SAF
 		add_core_of = NMB
 
 	}
+
 	provinces={
-		2229 5154 5189 7605 10963 
+		2229 5154 13632 13637 13641 
 	}
-	manpower=183000
+	manpower=18000
 	buildings_max_level_factor=1.000
-	state_category = pastoral
+	state_category=wasteland
+	local_supplies=0.000
 }

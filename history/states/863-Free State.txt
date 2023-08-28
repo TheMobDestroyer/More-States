@@ -1,17 +1,22 @@
+
 state={
 	id=863
-	name="Free State"
-	history {
-	owner = SAF
-	add_core_of = SAF
-	buildings = {
-			infrastructure = 1
-			}
-	}
+	name="Bloemfontein"
 	provinces={
-		5231 12064 12648 
+		5231 
 	}
-	manpower=200000
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = { 5231 3 }
+	}
+	manpower=140000
 	buildings_max_level_factor=1.000
-	state_category = town
+	state_category=city
+	local_supplies=0.000
 }

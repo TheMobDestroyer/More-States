@@ -1,0 +1,19 @@
+
+state={
+	id=1299
+	name="Lebowa"
+	provinces={
+		13547 13548 13551 13554 13556 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	state_category = wasteland
+	manpower=110300
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

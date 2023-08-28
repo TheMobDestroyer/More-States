@@ -1,7 +1,7 @@
 
 state={
 	id=541
-	name="STATE_541"
+	name="Windhoek"
 
 	history={
 		owner = SAF
@@ -18,9 +18,10 @@ state={
 	}
 
 	provinces={
-		2207 4879 
+		4879 13650 
 	}
 	manpower=462000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
+	local_supplies=0.000
 }

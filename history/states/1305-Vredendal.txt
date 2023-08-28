@@ -1,0 +1,19 @@
+
+state={
+	id=1305
+	name="Weskus"
+	provinces={
+		13591 13598 13607 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 2
+		}
+	}
+	state_category = town
+	manpower=89264
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=1297
+	name="Skeleton Coast"
+	provinces={
+		13563 13567 13573 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		add_core_of = NMB
+		buildings = { infrastructure = 1 }
+		victory_points = { 13563 1 }
+	}
+	state_category = rural
+	manpower=60000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

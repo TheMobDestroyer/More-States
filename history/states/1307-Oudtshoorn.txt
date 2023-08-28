@@ -1,0 +1,19 @@
+
+state={
+	id=1307
+	name="Oudtshoorn"
+	provinces={
+		13594 13595 13596 13601 13603 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 2
+		}
+	}
+	state_category = pastoral
+	manpower=44229
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=1303
+	name="KwaZulu"
+	provinces={
+		13507 13513 13516 13518 13519 13521 13526 13529 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	state_category = rural
+	manpower=588600
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,17 +1,19 @@
+
 state={
 	id=864
 	name="Mpumalanga"
-	history {
-	owner = SAF
-	add_core_of = SAF
-	buildings = {
-			infrastructure = 1
-			}
-	}
 	provinces={
-		2171 10566 
+		2171 10566 13532 13539 13542 13546 13657 
 	}
-	manpower=1000000
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	manpower=200000
 	buildings_max_level_factor=1.000
-	state_category = town
+	state_category=rural
+	local_supplies=0.000
 }

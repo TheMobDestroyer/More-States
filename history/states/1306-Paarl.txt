@@ -1,0 +1,19 @@
+
+state={
+	id=1306
+	name="Paarl"
+	provinces={
+		13590 13592 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 3
+		}
+	}
+	state_category = town
+	manpower=211473
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

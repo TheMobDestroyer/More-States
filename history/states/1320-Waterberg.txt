@@ -1,0 +1,19 @@
+
+state={
+	id=1320
+	name="Waterberg"
+	provinces={
+		5106 5217 10400 13538 13541 13550 13552 13559 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	state_category = rural
+	manpower=277800
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

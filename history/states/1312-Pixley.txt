@@ -1,0 +1,19 @@
+
+state={
+	id=1312
+	name="De Aar"
+	provinces={
+		10697 13604 13606 13610 13612 13621 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	state_category = wasteland
+	manpower=32500
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

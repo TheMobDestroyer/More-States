@@ -1,0 +1,18 @@
+
+state={
+	id=1293
+	name="Hereroland"
+	provinces={
+		13565 13566 13569 13570 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		add_core_of = NMB
+		buildings = { infrastructure = 1 }
+	}
+	state_category = wasteland
+	manpower=990
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

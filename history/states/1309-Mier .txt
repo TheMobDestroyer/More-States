@@ -1,0 +1,19 @@
+
+state={
+	id=1309
+	name="Mier"
+	provinces={
+		5203 13642 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	state_category = wasteland
+	manpower=5400
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

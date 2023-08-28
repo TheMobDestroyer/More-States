@@ -1,0 +1,19 @@
+
+state={
+	id=1310
+	name="Namakwa"
+	provinces={
+		4528 10442 12419 13613 13615 13619 13622 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = { 
+			infrastructure = 1
+		}
+	}
+	state_category = rural
+	manpower=57950
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
