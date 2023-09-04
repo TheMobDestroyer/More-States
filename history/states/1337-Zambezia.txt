@@ -1,11 +1,17 @@
 
 state={
 	id=1337
-	name="STATE_1337"
+	name="Zambezia"
 	provinces={
 		2180 12971 13701 13705 
 	}
-	manpower=0
+	history = {
+		owner = POR
+		add_core_of = MZB
+		buildings = { infrastructure = 2 }
+	}
+	state_category = pastoral
+	manpower=1677415
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

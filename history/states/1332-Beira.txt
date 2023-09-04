@@ -1,11 +1,17 @@
 
 state={
 	id=1332
-	name="STATE_1332"
+	name="Beira"
 	provinces={
 		2120 5155 13697 13699 13702 
 	}
-	manpower=0
+	history = {
+		owner = POR
+		add_core_of = MZB
+		buildings = { infrastructure = 2 }
+	}
+	state_category = pastoral
+	manpower=611000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

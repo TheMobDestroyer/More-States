@@ -1,11 +1,17 @@
 
 state={
 	id=1335
-	name="STATE_1335"
+	name="Vilanculos"
 	provinces={
 		2193 13679 13681 13682 
 	}
-	manpower=0
+	history = {
+		owner = POR
+		add_core_of = MZB
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=314522
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

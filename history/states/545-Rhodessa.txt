@@ -1,7 +1,7 @@
 
 state={
 	id=545
-	name="STATE_545"
+	name="Central Mashonaland"
 
 	history={
 		owner = ENG
@@ -19,8 +19,8 @@ state={
 	provinces={
 		7842 10929 13730 
 	}
-	manpower=1171336
+	manpower=471336
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=3.000
 }

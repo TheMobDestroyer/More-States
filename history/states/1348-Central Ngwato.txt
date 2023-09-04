@@ -1,11 +1,16 @@
 
 state={
 	id=1348
-	name="STATE_1348"
+	name="Central Ngwato"
 	provinces={
 		12963 13686 13687 13688 13690 
 	}
-	manpower=0
+	history = {
+		owner = ENG
+		add_core_of = BOT
+	}
+	state_category = rural
+	manpower=65000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

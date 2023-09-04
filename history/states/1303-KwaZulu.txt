@@ -2,18 +2,22 @@
 state={
 	id=1303
 	name="KwaZulu"
-	provinces={
-		13507 13513 13516 13518 13519 13521 13526 13529 
-	}
-	history = {
+
+	history={
 		owner = SAF
 		add_core_of = SAF
-		buildings = { 
+		buildings = {
 			infrastructure = 1
+
 		}
+
 	}
-	state_category = rural
+
+	provinces={
+		13507 13513 13516 13518 13519 13521 13526 13529 13717 
+	}
 	manpower=588600
 	buildings_max_level_factor=1.000
+	state_category=rural
 	local_supplies=0.000
 }

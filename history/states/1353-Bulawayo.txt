@@ -1,11 +1,17 @@
 
 state={
 	id=1353
-	name="STATE_1353"
+	name="South Amatabeleland"
 	provinces={
 		2151 4851 13723 13726 
 	}
-	manpower=0
+	history = {
+		owner = ENG
+		add_core_of= ZIM
+		buildings = { infrastructure = 1 }
+	}
+	state_category = pastoral
+	manpower=677000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

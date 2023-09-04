@@ -1,11 +1,17 @@
 
 state={
 	id=1331
-	name="STATE_1331"
+	name="Songo"
 	provinces={
 		13704 13707 
 	}
-	manpower=0
+	history = {
+		owner = POR
+		add_core_of = MZB
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=111000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

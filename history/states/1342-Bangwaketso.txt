@@ -1,11 +1,16 @@
 
 state={
 	id=1342
-	name="STATE_1342"
+	name="Bangwaketse"
 	provinces={
 		13661 13666 
 	}
-	manpower=0
+	history = {
+		owner = ENG
+		add_core_of = BOT
+	}
+	state_category = rural
+	manpower=32000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

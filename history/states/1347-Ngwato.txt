@@ -1,11 +1,16 @@
 
 state={
 	id=1347
-	name="STATE_1347"
+	name="Northern Ngwato"
 	provinces={
 		13692 13694 
 	}
-	manpower=0
+	history = {
+		owner = ENG
+		add_core_of = BOT
+	}
+	state_category = wasteland
+	manpower=6000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

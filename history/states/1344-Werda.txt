@@ -1,10 +1,15 @@
 state={
 	id=1344
-	name="STATE_1344"
+	name="Werda"
 	provinces={
 		13662 
 	}
-	manpower=0
+	history = {
+		owner = ENG
+		add_core_of = BOT
+	}
+	state_category = wasteland
+	manpower=4200
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
