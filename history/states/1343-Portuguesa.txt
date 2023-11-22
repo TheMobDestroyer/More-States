@@ -1,0 +1,17 @@
+
+state={
+	id=1343
+	name="Portuguesa"
+	provinces={
+		13761 13773 13776 
+	}
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = { infrastructure = 2 }
+	}	
+	state_category = rural
+	manpower=71675
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

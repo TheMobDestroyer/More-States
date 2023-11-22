@@ -1,0 +1,16 @@
+state={
+	id=1345
+	name="Paraguaná"
+	provinces={
+		13803 
+	}
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = { infrastructure = 1 }
+	}	
+	state_category = tiny_island
+	manpower=3500
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

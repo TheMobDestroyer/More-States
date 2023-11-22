@@ -1,0 +1,17 @@
+
+state={
+	id=1351
+	name="Bolívar Norte"
+	provinces={
+		13742 13747 13750 13752 13759 13764 
+	}
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = { infrastructure = 1 }
+	}	
+	state_category = town
+	manpower=300000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

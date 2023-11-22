@@ -1,0 +1,17 @@
+
+state={
+	id=1342
+	name="Barinas"
+	provinces={
+		1997 13748 13751 13758 13760 
+	}
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = { infrastructure = 1 }
+	}	
+	state_category = rural
+	manpower=56193
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

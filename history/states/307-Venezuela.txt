@@ -10,28 +10,19 @@ state={
 		owner = VEN
 		buildings = {
 			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 5
-			air_base = 2
-			8113 = {
-				naval_base = 3
-
-			}
 			
 
 		}
 		add_core_of = VEN
-		victory_points = {
-			8113 5 
-		}
+		
 
 	}
 
 	provinces={
-		4942 8024 8113 
+		8113 13784 13792 
 	}
-	manpower=1335010
+	manpower=216527
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

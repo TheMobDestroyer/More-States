@@ -1,16 +1,23 @@
+
 state={
 	id=1051
-	name="Falcon"
-	provinces={
-		4526 10855 
-	}
-	history = {
+	name="Falcón"
+
+	history={
 		owner = VEN
 		add_core_of = VEN
-		buildings = {infrastructure = 2}
+		buildings = {
+			infrastructure = 2
+
+		}
+
 	}
-	state_category = town
+
+	provinces={
+		4526 13797 13801 13802 
+	}
 	manpower=373622
 	buildings_max_level_factor=1.000
+	state_category=town
 	local_supplies=0.000
 }

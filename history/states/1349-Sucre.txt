@@ -1,0 +1,23 @@
+
+state={
+	id=1349
+	name="Sucre"
+	provinces={
+		13793 13799 
+	}
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = { 
+			infrastructure = 2
+			13779 = {
+				naval_base = 2
+
+			}			
+		}
+	}	
+	state_category = town
+	manpower=262344
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=1341
+	name="Los Andes"
+	provinces={
+		2052 13757 13767 13780 
+	}
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = { infrastructure = 3 }
+	}
+	state_category = town
+	manpower=638114
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,16 +1,23 @@
+
 state={
 	id=1050
 	name="Apure"
-	provinces={
-		4892 5000 5056 
-	}
-	history = {
+
+	history={
 		owner = VEN
 		add_core_of = VEN
-		buildings = {infrastructure = 2}
+		buildings = {
+			infrastructure = 2
+
+		}
+
 	}
-	state_category = rural
+
+	provinces={
+		4892 5056 13743 13744 13745 13749 
+	}
 	manpower=129388
 	buildings_max_level_factor=1.000
+	state_category=rural
 	local_supplies=0.000
 }
