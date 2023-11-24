@@ -1,0 +1,17 @@
+
+state={
+	id=1376
+	name="Erfurt"
+	provinces={
+		425 3561 6582 9560 13459 
+	}
+	history = {
+		owner = GER
+		add_core_of = GER
+		buildings = { infrastructure = 3 }
+	}
+	state_category = town
+	manpower=90000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
