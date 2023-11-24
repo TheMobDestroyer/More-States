@@ -1,0 +1,16 @@
+state={
+	id=1377
+	name="Sondershausen"
+	provinces={
+		13634 
+	}
+	history = {
+		owner = GER
+		add_core_of = GER
+		buildings = { infrastructure = 2 }
+	}
+	state_category = pastoral
+	manpower=11300
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
