@@ -1,0 +1,15 @@
+state={
+	id=1357
+	name="Ghanzi"
+	provinces={
+		13685 13684
+	}
+	history = {
+		owner = ENG
+		add_core_of = BOT
+	}
+	state_category = rural
+	manpower=11300
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

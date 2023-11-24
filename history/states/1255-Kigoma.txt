@@ -2,15 +2,18 @@
 state={
 	id=1255
 	name="Kigoma"
-	provinces={
-		13436 13437 13438 13439 13450 
-	}
-	history = { 
+
+	history={
 		owner = ENG
 		add_core_of = TZN
+
 	}
-	state_category = wasteland
+
+	provinces={
+		2281 13436 13437 13438 13439 13450 
+	}
 	manpower=555555
 	buildings_max_level_factor=1.000
+	state_category=wasteland
 	local_supplies=0.000
 }

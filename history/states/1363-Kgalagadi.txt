@@ -1,0 +1,19 @@
+
+state={
+	id=1363
+	name="Kgalagadi"
+	resources={
+		chromium=90.000
+	}
+	provinces={
+		12940 13658 13659 13660 13664 13667 
+	}
+	history = {
+		owner = ENG
+		add_core_of = BOT
+	}
+	state_category = wasteland
+	manpower=6300
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
