@@ -1,7 +1,7 @@
 
 state={
 	id=376
-	name="STATE_376"
+	name="Eastern New Mexico"
 	resources={
 		oil=14.000
 		aluminium=30.000

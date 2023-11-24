@@ -1,11 +1,20 @@
 
 state={
 	id=1339
-	name="STATE_1358"
+	name="San Antonio"
 	provinces={
 		1927 2042 4884 6987 12782 13736 
 	}
-	manpower=0
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = { 
+			infrastructure = 3 
+			industrial_complex = 3
+		}
+	}
+	state_category = city
+	manpower=2000000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

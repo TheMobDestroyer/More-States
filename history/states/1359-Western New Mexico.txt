@@ -1,8 +1,10 @@
 
 state={
-	id=1194
-	name="Lincoln"
-
+	id=1359
+	name="Western New Mexico"
+	provinces={
+		1972 5044 10645 10914 12552 
+	}
 	history={
 		owner = USA
 		add_core_of = USA
@@ -12,12 +14,8 @@ state={
 		}
 
 	}
-
-	provinces={
-		1954 1998 2019 4955 5038 5061 6785 6798 8064 10740 10894 12369 12728 
-	}
-	manpower=674993
+	state_category = rural
+	manpower=500000
 	buildings_max_level_factor=1.000
-	state_category=town
 	local_supplies=0.000
 }
